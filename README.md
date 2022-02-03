@@ -1,6 +1,8 @@
-### Hi there 👋
+### :wave: :wave: :wave: Hi, I'm Xenia.
 
-My name is Xenia. 
+I work for asset management company as an Investment Manager.:chart_with_upwards_trend: A newbie in the programming world.:new: I try to find the spark combining investment and code.:sparkles: I am especially interested in **Data Science** and **Machine Learning** by using **Python**.:keyboard: It would be fabulous if I can meet someone who share the same interest to explore cross-field possibilities together in the unlimited online world.:hugs:
+
+#### Find me around the Web: [LinkedIn](https://www.linkedin.com/in/yahsienpeng/) | [Blog](http://wealthnavigatortw.com/) :globe_with_meridians::globe_with_meridians::globe_with_meridians:
 
 <!--
 **xeniapeng/xeniapeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
